@@ -1,18 +1,31 @@
-analytics: {}
+name: 'HollyHood Productions, Inc.'
+favicon: null
+layout_spectrum: 0.667598
+typography_spectrum: 0.916201
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#fdfdfe'
+    - '#0e100f'
+    - '#4e534f'
+    - '#c1c2c2'
+    - '#858786'
   brandStrength: 0.490223
   lightness: 0.505587
-  rhythmicContrast: 0.50419
   saturation: 0.498603
-cta: {}
-layout_spectrum: 0.667598
-name: 'HollyHood Productions, Inc.'
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.916201
+  rhythmicContrast: 0.50419
+purpose:
+  - name: null
+    item: null
+    url: null
