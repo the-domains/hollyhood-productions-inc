@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[HollyHood Productions, Inc.]]></title>
         <description><![CDATA[HollyHood Productions, Inc.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hollyhood-productions-inc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 21:05:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 19:07:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hollyhood-productions-inc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>HollyHood Productions</p>]]></description>
-            <link>undefinedd6b95d6c-c348-44b2-9c2e-26262c1bdaff/index.html</link>
+            <link>https://thegrid.ai/hollyhood-productions-inc/d6b95d6c-c348-44b2-9c2e-26262c1bdaff/index.html</link>
             <guid isPermaLink="false">d6b95d6c-c348-44b2-9c2e-26262c1bdaff</guid>
-            <pubDate>Mon, 21 Mar 2016 21:05:12 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2016 19:07:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
